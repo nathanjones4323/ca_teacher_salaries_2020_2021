@@ -38,12 +38,21 @@ To perform all of our data analysis, we will be using Python. Specifically, the 
 4. Numpy (Computations)
 5. Branca (Fancying up Folium maps)
 
-## See the Map Live in Action
+The source code for the maps is included in the **`code`** directory of this repository, and the source data is contained in the **`data`** directory of this repository. Modifications and new analysis are highly encouraged, these maps are just an example of what you can do with this data ! 
 
-Since Folium produces static HTML files, I chose to host it on Netlify as a way to share the content. You can see the map live at https://ca-teacher-salaries.netlify.app/
+## See the Maps Live in Action
+
+Since Folium produces static HTML files, I chose to host the maps on Netlify as a way to share the content. 
+
+You can see the county level map live at https://ca-county-teacher-salaries.netlify.app/
+&
+You can see the district level map live at https://ca-district-teacher-salaries.netlify.app/
 
 ## References
 1. [Geographic boundary shapefiles](https://gis.data.ca.gov/datasets/CDEGIS::california-school-district-areas-2020-21/explore) provided by the California government
 2. [Database of teacher salary information](https://www.cde.ca.gov/ds/fd/cs/) provided by the California government and available to the public off of [their website](https://www.cde.ca.gov/)
 
 3. [Geographic county data](https://gis.data.ca.gov/datasets/8713ced9b78a4abb97dc130a691a8695/explore) provided by the California government. (Used to view teacher salaries at the county level)
+
+## Final Words
+If you know someone that is going to become a teacher or is thinking about changing districts / counties, this is a great resource for them. This allows an education professional to make informed decisions about their career, and highlights the facts that teachers are underpaid for their work (something I personally believe). Sharing, critics, and general comments are all encouraged. Thanks for reading : )
