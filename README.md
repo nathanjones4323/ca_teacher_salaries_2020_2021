@@ -1,6 +1,6 @@
 # California Teacher Salary Data
 
-This repository serves as a source of data and knowledge on teacher salaries for the state of California. 
+This repository serves as a source of data and knowledge on teacher salaries for the state of California as provided by the California Department of Education (CDE). 
 
 
 ## Problem Statement
@@ -15,6 +15,8 @@ To best answer these questions, we should consider both *geographic* and *salary
 
 In addition to the school district data, we also utilized the [geographic county data](https://gis.data.ca.gov/datasets/8713ced9b78a4abb97dc130a691a8695/explore) (also found on CDE website) to view teacher salaries at the county level.
 
+#### Note
+The data given by the CDE is in a MS Access Database format, which is slightly challenging if you don't use MS Access. To get around using MS Access, I simply opened the database inside [DBeaver (Free / Open Source Universal Database Tool)](https://dbeaver.io/), and exported the tables I needed in **`.csv`** format. These are the csv files listed inside of the **`data`** directory. The database documentation can be found on the link to the database listed above (README file on CDE's website).
 
 ## Goal
 
