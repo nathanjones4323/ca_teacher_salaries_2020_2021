@@ -5,7 +5,7 @@ This repository serves as a source of data and knowledge on teacher salaries for
 
 ## Problem Statement
 
-Gradutating California teachers and those who are getting their teaching credentials need to quickly and easily access  salary information at the county and district levels to help aid their job searching process. Most people want to maximize their earnings in their career, so knowing what counties and districts have the best salaries is key. 
+Graduating California teachers and those who are getting their teaching credentials need to quickly and easily access  salary information at the county and district levels to help aid their job searching process. Most people want to maximize their earnings in their career, so knowing what counties and districts have the best salaries is key. 
 
 Another component of choosing where to start your career is your geographic location. Money is important, but it is not everything. Say for instance you have family that lives in San Diego and you know for a fact that you do not want to move very far away. Or you just really don't want to live in the middle of the desert.
 
@@ -23,7 +23,7 @@ In addition to the school district data, we also utilized the [geographic county
 
 #### Notes
 
-1. In the following we are limiting our scope to new graduating / credentialling teachers in California, however the analysis can be easily adapted to any other teacher level position in California.
+1. In the following we are limiting our scope to new graduating / credentialing teachers in California, however the analysis can be easily adapted to any other teacher level position in California.
 
 
 2. There are other factors such as school cultures, goals, teaching styles, etc. that play into where you want to work. While this is definitely true, we will mainly focus on the financial and geographical criteria for a good birds eye view of prospective jobs.
