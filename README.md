@@ -38,7 +38,9 @@ To perform all of our data analysis, we will be using Python. Specifically, the 
 4. Numpy (Computations)
 5. Branca (Fancying up Folium maps)
 
-The source code for the maps is included in the **`code`** directory of this repository, and the source data is contained in the **`data`** directory of this repository. Modifications and new analysis are highly encouraged, these maps are just an example of what you can do with this data ! 
+The source code for the maps is included in the **`code`** directory of this repository, and the source data is contained in the **`data`** directory of this repository. Additionally, I will provide a Jupyter Notebook of all the code with minimal comments. 
+
+Modifications and new analysis are highly encouraged, these maps are just an example of what you can do with this data ! 
 
 ## See the Maps Live in Action
 
