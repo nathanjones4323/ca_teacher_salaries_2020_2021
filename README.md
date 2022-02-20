@@ -27,3 +27,23 @@ In addition to the school district data, we also utilized the [geographic county
 
 
 2. There are other factors such as school cultures, goals, teaching styles, etc. that play into where you want to work. While this is definitely true, we will mainly focus on the financial and geographical criteria for a good birds eye view of prospective jobs.
+
+## Tech Stack Used
+
+To perform all of our data analysis, we will be using Python. Specifically, the following libraries:
+
+1. Geopandas (Reading in of geographic data)
+2. Pandas (Data manipulation and cleaning)
+3. Folium (Mapping of geographic data, overlaid with salary data)
+4. Numpy (Computations)
+5. Branca (Fancying up Folium maps)
+
+## See the Map Live in Action
+
+Since Folium produces static HTML files, I chose to host it on Netlify as a way to share the content. You can see the map live at https://ca-teacher-salaries.netlify.app/
+
+## References
+1. [Geographic boundary shapefiles] provided by the California government (https://gis.data.ca.gov/datasets/CDEGIS::california-school-district-areas-2020-21/explore) 
+2. [Database of teacher salary information](https://www.cde.ca.gov/ds/fd/cs/) provided by the California government and available to the public off of [their website](https://www.cde.ca.gov/)
+
+3. [Geographic county data](https://gis.data.ca.gov/datasets/8713ced9b78a4abb97dc130a691a8695/explore) provided by the California government. (Used to view teacher salaries at the county level)
