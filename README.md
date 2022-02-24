@@ -59,4 +59,4 @@ You can see the district level map live at https://ca-district-teacher-salaries.
 3. [Geographic county data](https://gis.data.ca.gov/datasets/8713ced9b78a4abb97dc130a691a8695/explore) provided by the California government. (Used to view teacher salaries at the county level)
 
 ## Final Words
-If you know someone that is going to become a teacher or is thinking about changing districts / counties, this is a great resource for them. This allows an education professional to make informed decisions about their career, and highlights the facts that teachers are underpaid for their work (something I personally believe). Sharing, critics, and general comments are all encouraged. Thanks for reading : )
+If you know someone that is going to become a teacher or is thinking about changing districts / counties, this is a great resource for them. This allows an education professional to make informed decisions about their career, and highlights the facts that teachers are underpaid for their work (something I personally believe). Sharing, critiques, and general comments are all encouraged. Thanks for reading : )
